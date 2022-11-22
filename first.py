@@ -1,0 +1,1 @@
+print('My firsy git-repo')
